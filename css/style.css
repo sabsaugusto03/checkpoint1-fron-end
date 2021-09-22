@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2? family = Montserrat: wght @ 300; 700 & display = swap');
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+   font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    background-image: linear-gradient(rgba(235, 229, 229, 0.308), rgba(122, 120, 120, 0.26)),
+   url("../img/cwb.jpg");
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat; 
+    background-size: cover;
+  
+}
+
+h1{
+    text-align: center ;
+    color:black;
+    margin: 20px;
+    font-size: 20mm;
+}
+    
+    
+ 
+h2{
+    text-align:center;
+    color:black;  
+    font-size: 15mm; 
+    margin: 5mm;
+}
+h3{
+    font-size: 7mm;
+}
+
+p{
+    margin: 50px;
+    padding: 0;
+   
+}
+div{
+    align-items: center;
+}
+
+#li{
+    color:black;
+    margin: 20px;
+}
+ul{
+    font-size: 6mm;
+    margin: 50px;
+    list-style: none;
+}
+
+main{
+    text-align:center;
+    margin: 20px;
+}
+
+li img{
+   width: 250px; 
+}
+
+iframe{
+    align-items: center;
+}
